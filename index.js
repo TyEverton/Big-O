@@ -27,7 +27,7 @@ for (let i = 0; i < numbers.length; i++) {
 
 
 // Q: Could you come up with a solution that has a better time complexity? If so, what is that time complexity?
-// ANSWER: | Better TC = o(n)
+// ANSWER:Not sure | Better TC = also not sure as this is a for loop so it would only be faster if it wasnt a for loop
 
 
 // 2) -------------------------------------------------------
